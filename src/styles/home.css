@@ -1,0 +1,15 @@
+.button{
+    margin-left: 80px;
+}
+
+.table{
+    width: 50%;
+    height: 30%;
+    background-color: aquamarine;
+}
+
+.Ha{
+    width: 100%;
+    height: inherit;
+    background-color:rgba(87, 84, 84, 0.625);
+}
