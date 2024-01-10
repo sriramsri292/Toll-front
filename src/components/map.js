@@ -22,7 +22,7 @@ const yourTollIcon = L.icon({
   popupAnchor: [0, -12.5],
 });
 
-const YOUR_OPENCAGE_API_KEY = "3f1a17fffce94ddab9bf7379a129abc6"; // Replace with your OpenCage API key
+const YOUR_OPENCAGE_API_KEY = "DqJ3mP9LQ7B3nnTDJ4JjDdfDG444LLqJ"; // Replace with your OpenCage API key
 
 export default function Map() {
   const {
